@@ -1,0 +1,418 @@
+{
+    "0": {
+        "name": "International Day of Education",
+        "date_month": "01",
+        "month_name": "January",
+        "date_day": "24",
+        "image_link": "https://i.hizliresim.com/VJBWKE.png",
+        "color": "0xFF48cae4"
+    },
+    "1": {
+        "name": "International Day of Women and Girls in Science",
+        "date_month": "02",
+        "month_name": "February",
+        "date_day": "11",
+        "image_link": "https://i.hizliresim.com/jTmfEY.png",
+        "color": "0xFFffb5a7"
+    },
+    "2": {
+        "name": "World Radio Day",
+        "date_month": "02",
+        "month_name": "February",
+        "date_day": "13",
+        "image_link": "https://i.hizliresim.com/c7IvhP.png",
+        "color": "0xFF2a9d8f"
+    },
+    "3": {
+        "name": "World Day of Social Justice",
+        "date_month": "02",
+        "month_name": "February",
+        "date_day": "20",
+        "image_link": "https://i.hizliresim.com/1c6jPK.png",
+        "color": "0xFFa8dadc"
+    },
+    "4": {
+        "name": "International Mother Language Day",
+        "date_month": "02",
+        "month_name": "February",
+        "date_day": "21",
+        "image_link": "https://i.hizliresim.com/N7JNnY.png",
+        "color": "0xFFdbcdf0"
+    },
+    "5": {
+        "name": "Zero Discrimination Day",
+        "date_month": "03",
+        "month_name": "March",
+        "date_day": "01",
+        "image_link": "https://i.hizliresim.com/cGmnIF.png",
+        "color": "0xFFb8f2e6"
+    },
+    "6": {
+        "name": "World Wildlife Day",
+        "date_month": "03",
+        "month_name": "March",
+        "date_day": "03",
+        "image_link": "https://i.hizliresim.com/R4cUtG.png",
+        "color": "0xFFee6c4d"
+    },
+    "7": {
+        "name": "International Women's Day",
+        "date_month": "03",
+        "month_name": "March",
+        "date_day": "08",
+        "image_link": "https://i.hizliresim.com/GHNGY8.png",
+        "color": "0xFFffef9f"
+    },
+    "8": {
+        "name": "International Day of Happiness",
+        "date_month": "03",
+        "month_name": "March",
+        "date_day": "20",
+        "image_link": "https://i.hizliresim.com/r1XmMg.png",
+        "color": "0xFF048ba8"
+    },
+    "9": {
+        "name": "French Language Day",
+        "date_month": "03",
+        "month_name": "March",
+        "date_day": "20",
+        "image_link": "https://i.hizliresim.com/a8GnX7.png",
+        "color": "0xFFff6b35"
+    },
+    "10": {
+        "name": "International Day for the Elimination of Racial Discrimination",
+        "date_month": "03",
+        "month_name": "March",
+        "date_day": "21",
+        "image_link": "https://i.hizliresim.com/cGmnIF.png",
+        "color": "0xFFdcdcdd"
+    },
+    "11": {
+        "name": "World Poetry Day",
+        "date_month": "03",
+        "month_name": "March",
+        "date_day": "21",
+        "image_link": "https://i.hizliresim.com/MQyLpR.png",
+        "color": "0xFFffe1a8"
+    },
+    "12": {
+        "name": "International Day of Nowruz",
+        "date_month": "03",
+        "month_name": "March",
+        "date_day": "21",
+        "image_link": "https://i.hizliresim.com/pAFjdP.png",
+        "color": "0xFFb3dee2"
+    },
+    "13": {
+        "name": "World Down Syndrome Day",
+        "date_month": "03",
+        "month_name": "March",
+        "date_day": "21",
+        "image_link": "https://i.hizliresim.com/sKVLEV.png",
+        "color": "0xFFbcb8b1"
+    },
+    "14": {
+        "name": "World Autism Awareness Day",
+        "date_month": "04",
+        "month_name": "April",
+        "date_day": "02",
+        "image_link": "https://i.hizliresim.com/1PFhqD.png",
+        "color": "0xFFff9b54"
+    },
+    "15": {
+        "name": "International Day of Conscience",
+        "date_month": "04",
+        "month_name": "April",
+        "date_day": "05",
+        "image_link": "https://i.hizliresim.com/knCDqT.png",
+        "color": "0xFFffbd00"
+    },
+    "16": {
+        "name": "World Health Day",
+        "date_month": "04",
+        "month_name": "April",
+        "date_day": "07",
+        "image_link": "https://i.hizliresim.com/XKU4fO.png",
+        "color": "0xFF68d8d6"
+    },
+    "17": {
+        "name": "International Day of Human Space Flight",
+        "date_month": "04",
+        "month_name": "April",
+        "date_day": "12",
+        "image_link": "https://i.hizliresim.com/adwDtf.png",
+        "color": "0xFFff9f1c"
+    },
+    "18": {
+        "name": "World Creativity and Innovation Day",
+        "date_month": "04",
+        "month_name": "April",
+        "date_day": "21",
+        "image_link": "https://i.hizliresim.com/JllKyB.png",
+        "color": "0xFF1992fc"
+    },
+    "19": {
+        "name": "International Mother Earth Day",
+        "date_month": "04",
+        "month_name": "April",
+        "date_day": "22",
+        "image_link": "https://i.hizliresim.com/x7EPiL.png",
+        "color": "0xFFfed9b7"
+    },
+    "20": {
+        "name": "International Chernobyl Disaster Remembrance Day",
+        "date_month": "04",
+        "month_name": "April",
+        "date_day": "26",
+        "image_link": "https://i.hizliresim.com/wURsyb.png",
+        "color": "0xFF0c0f0a"
+    },
+    "21": {
+        "name": "International Jazz Day",
+        "date_month": "04",
+        "month_name": "April",
+        "date_day": "30",
+        "image_link": "https://i.hizliresim.com/CMGvq2.png",
+        "color": "0xFFfe5f55"
+    },
+    "22": {
+        "name": "World Press Freedom Day",
+        "date_month": "05",
+        "month_name": "May",
+        "date_day": "03",
+        "image_link": "https://i.hizliresim.com/SfbulR.png",
+        "color": "0xFFc08497"
+    },
+    "23": {
+        "name": "International Day of Families",
+        "date_month": "05",
+        "month_name": "May",
+        "date_day": "15",
+        "image_link": "https://i.hizliresim.com/zJuHLh.png",
+        "color": "0xFFdd9787"
+    },
+    "24": {
+        "name": "International Tea Day",
+        "date_month": "05",
+        "month_name": "May",
+        "date_day": "21",
+        "image_link": "https://i.hizliresim.com/j4fUEB.png",
+        "color": "0xFFf6e7cb"
+    },
+    "25": {
+        "name": "Global Day of Parents",
+        "date_month": "06",
+        "month_name": "June",
+        "date_day": "01",
+        "image_link": "https://i.hizliresim.com/zJuHLh.png",
+        "color": "0xFFf7a399"
+    },
+    "26": {
+        "name": "World Bicycle Day",
+        "date_month": "06",
+        "month_name": "June",
+        "date_day": "03",
+        "image_link": "https://i.hizliresim.com/KcZ7Yr.png",
+        "color": "0xFFa6c48a"
+    },
+    "27": {
+        "name": "World Environment Day",
+        "date_month": "06",
+        "month_name": "June",
+        "date_day": "05",
+        "image_link": "https://i.hizliresim.com/daOhI1.png",
+        "color": "0xFF009fb7"
+    },
+    "28": {
+        "name": "World Oceans Day",
+        "date_month": "06",
+        "month_name": "June",
+        "date_day": "08",
+        "image_link": "https://i.hizliresim.com/z39bIL.png",
+        "color": "0xFFf7d6e0"
+    },
+    "29": {
+        "name": "World Population Day",
+        "date_month": "07",
+        "month_name": "July",
+        "date_day": "11",
+        "image_link": "https://i.hizliresim.com/W4VgfG.png",
+        "color": "0xFFf6c28b"
+    },
+    "30": {
+        "name": "World Chess Day",
+        "date_month": "07",
+        "month_name": "July",
+        "date_day": "20",
+        "image_link": "https://i.hizliresim.com/WacXm9.png",
+        "color": "0xFFfdfcdc"
+    },
+    "31": {
+        "name": "International Day of Friendship",
+        "date_month": "07",
+        "month_name": "July",
+        "date_day": "30",
+        "image_link": "https://i.hizliresim.com/dqK1zz.png",
+        "color": "0xFFff7900"
+    },
+    "32": {
+        "name": "International Youth Day",
+        "date_month": "07",
+        "month_name": "August",
+        "date_day": "12",
+        "image_link": "https://i.hizliresim.com/Q1QCqw.png",
+        "color": "0xFF7ae582"
+    },
+    "33": {
+        "name": "World Humanitarian Day",
+        "date_month": "08",
+        "month_name": "August",
+        "date_day": "19",
+        "image_link": "https://i.hizliresim.com/swci7D.png",
+        "color": "0xFF17c3b2"
+    },
+    "34": {
+        "name": "International Day of Charity",
+        "date_month": "09",
+        "month_name": "September",
+        "date_day": "05",
+        "image_link": "https://i.hizliresim.com/XI7mNU.png",
+        "color": "0xFFfe6d73"
+    },
+    "35": {
+        "name": "International Literacy Day",
+        "date_month": "09",
+        "month_name": "September",
+        "date_day": "08",
+        "image_link": "https://i.hizliresim.com/esHEvQ.png",
+        "color": "0xFF8e7dbe"
+    },
+    "36": {
+        "name": "International Day of Democracy",
+        "date_month": "09",
+        "month_name": "September",
+        "date_day": "15",
+        "image_link": "https://i.hizliresim.com/jD8WqL.png",
+        "color": "0xFF7678ed"
+    },
+    "37": {
+        "name": "World Patient Safety Day",
+        "date_month": "09",
+        "month_name": "September",
+        "date_day": "17",
+        "image_link": "https://i.hizliresim.com/9HOfDg.png",
+        "color": "0xFF96e072"
+    },
+    "38": {
+        "name": "International Day of Peace",
+        "date_month": "09",
+        "month_name": "September",
+        "date_day": "21",
+        "image_link": "https://i.hizliresim.com/HsSmcp.png",
+        "color": "0xFFefe9ae"
+    },
+    "39": {
+        "name": "World Maritime Day",
+        "date_month": "09",
+        "month_name": "September",
+        "date_day": "24",
+        "image_link": "https://i.hizliresim.com/fzAQqI.png",
+        "color": "0xFF80b2e5"
+    },
+    "40": {
+        "name": "World Tourism Day",
+        "date_month": "09",
+        "month_name": "September",
+        "date_day": "27",
+        "image_link": "https://i.hizliresim.com/oesLqh.png",
+        "color": "0xFFff928b"
+    },
+    "41": {
+        "name": "International Day of Older Persons",
+        "date_month": "10",
+        "month_name": "October",
+        "date_day": "01",
+        "image_link": "https://i.hizliresim.com/Bh7MPq.png",
+        "color": "0xFF1f7a8c"
+    },
+    "42": {
+        "name": "World Teachers’ Day",
+        "date_month": "10",
+        "month_name": "October",
+        "date_day": "05",
+        "image_link": "https://i.hizliresim.com/KEPQIf.png",
+        "color": "0xFFff8e72"
+    },
+    "43": {
+        "name": "Mirsaid Ismailov's Birthday",
+        "date_month": "10",
+        "month_name": "October",
+        "date_day": "15",
+        "image_link": "https://i.hizliresim.com/H15xdD.png",
+        "color": "0xFFff5353"
+    },
+    "44": {
+        "name": "World Tsunami Awareness Day ",
+        "date_month": "11",
+        "month_name": "November",
+        "date_day": "05",
+        "image_link": "https://i.hizliresim.com/874tag.png",
+        "color": "0xFF16db93"
+    },
+    "45": {
+        "name": "World Science Day for Peace and Development",
+        "date_month": "11",
+        "month_name": "November",
+        "date_day": "10",
+        "image_link": "https://i.hizliresim.com/jTmfEY.png",
+        "color": "0xFF006daa"
+    },
+    "46": {
+        "name": "World Philosophy Day",
+        "date_month": "11",
+        "month_name": "November",
+        "date_day": "19",
+        "image_link": "https://i.hizliresim.com/G8396H.png",
+        "color": "0xFF9c89b8"
+    },
+    "47": {
+        "name": "World Children's Day",
+        "date_month": "11",
+        "month_name": "November",
+        "date_day": "20",
+        "image_link": "https://i.hizliresim.com/Q1QCqw.png",
+        "color": "0xFFaad576"
+    },
+    "48": {
+        "name": "World Soil Day",
+        "date_month": "12",
+        "month_name": "December",
+        "date_day": "05",
+        "image_link": "https://i.hizliresim.com/YyZ4OY.png",
+        "color": "0xFF5465ff"
+    },
+    "49": {
+        "name": "Human Rights Day",
+        "date_month": "12",
+        "month_name": "December",
+        "date_day": "10",
+        "image_link": "https://i.hizliresim.com/swci7D.png",
+        "color": "0xFFda5552"
+    },
+    "50": {
+        "name": "International Migrants Day",
+        "date_month": "12",
+        "month_name": "December",
+        "date_day": "18",
+        "image_link": "https://i.hizliresim.com/K0IPHY.png",
+        "color": "0xFFffcb77"
+    },
+    "51": {
+        "name": "World Day for Animals in Laboratories",
+        "date_month": "04",
+        "month_name": "April",
+        "date_day": "24",
+        "image_link": "https://i.hizliresim.com/MrIDQh.png",
+        "color": "0xFFcbf3f0"
+    }
+}
